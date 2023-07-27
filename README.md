@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-este es mi primer repositorio creado en la nube. Deseo aprender todo lo necesario para ser un gran programador.
+Estoy aprendiendo lo básico. Creé un respositorio en la nube y lo traje localmente a través de Git.
